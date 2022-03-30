@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\viniv\\source\\repos\\AzureFunction\\AzureFunction\\AzureFunction.csproj": {}
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\AzureFunction\\AzureFunction\\AzureFunction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viniv\\source\\repos\\AzureFunction\\AzureFunction\\AzureFunction.csproj": {
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\AzureFunction\\AzureFunction\\AzureFunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viniv\\source\\repos\\AzureFunction\\AzureFunction\\AzureFunction.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\AzureFunction\\AzureFunction\\AzureFunction.csproj",
         "projectName": "AzureFunction",
-        "projectPath": "C:\\Users\\viniv\\source\\repos\\AzureFunction\\AzureFunction\\AzureFunction.csproj",
-        "packagesPath": "C:\\Users\\viniv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viniv\\source\\repos\\AzureFunction\\AzureFunction\\obj\\",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\AzureFunction\\AzureFunction\\AzureFunction.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\AzureFunction\\AzureFunction\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\viniv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

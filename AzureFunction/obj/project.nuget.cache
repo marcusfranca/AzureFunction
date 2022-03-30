@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LtlUZcotnYVM0GSMXTkAYmabRiYv6L6BjPsqhJN/r5evLQsYM3vLg21cdBOE04BmnypdaQhRRvWV1HgmThNXLQ==",
+  "dgSpecHash": "LenQ+t+BTP10KFkZ2MR0BkRY0ZVvDknyVR5iDY0IT7sLD8APhUQr1AQUVcA4kM2TVpSpmaGcmVwZICjp4tbGTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\viniv\\source\\repos\\AzureFunction\\AzureFunction\\AzureFunction.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\AzureFunction\\AzureFunction\\AzureFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

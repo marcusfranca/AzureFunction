@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AzureFunction
 build_property.RootNamespace = AzureFunction
-build_property.ProjectDir = C:\Users\viniv\source\repos\AzureFunction\AzureFunction\
+build_property.ProjectDir = C:\Users\erick\OneDrive\Área de Trabalho\AzureFunction\AzureFunction\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\viniv\source\repos\AzureFunction\AzureFunction
+build_property.MSBuildProjectDirectory = C:\Users\erick\OneDrive\Área de Trabalho\AzureFunction\AzureFunction
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/App.razor]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/Pages/Counter.razor]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/Pages/FetchData.razor]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/Pages/Index.razor]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/Shared/SurveyPrompt.razor]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/_Imports.razor]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/Shared/MainLayout.razor]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-bukt521yw5
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/Shared/NavMenu.razor]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-jauok7yfpr
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/Pages/Error.cshtml]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/Pages/_Host.cshtml]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/viniv/source/repos/AzureFunction/AzureFunction/Pages/_Layout.cshtml]
+[C:/Users/erick/OneDrive/Área de Trabalho/AzureFunction/AzureFunction/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
